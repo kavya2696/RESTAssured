@@ -1,0 +1,13 @@
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/Responses/PostPlaceResponse.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/Requests/PostAddressRequest.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/Requests/Location.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/Responses/PostAddressResponse.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/RestUtils/JSONUtils.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/BaseService/BaseStep.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/RestUtils/RequestSpecification.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/reports/Log4jProperties.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/Requests/UpdatePlaceRequest.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/RestUtils/ReadProperty.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/RestUtils/TestConstants.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/ServiceAPI/GoogleAPIHTTPMethods.java
+/Users/kass/eclipse-learning/rest/assuredProj/src/main/java/com/qa/reports/ExtentFactory.java

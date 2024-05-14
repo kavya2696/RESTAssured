@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-14T12:03:09Z" name="Suite" finished-at="2024-05-14T12:03:16Z" duration-ms="6863">
+    <groups>
+    </groups>
+    <test started-at="2024-05-14T12:03:09Z" name="Test" finished-at="2024-05-14T12:03:16Z" duration-ms="6863">
+      <class name="googleAPITest.GoogleAPITest">
+        <test-method is-config="true" signature="startExtendReport()[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:09Z" name="startExtendReport" finished-at="2024-05-14T12:03:10Z" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtendReport -->
+        <test-method is-config="true" signature="BaseURI(java.lang.reflect.Method)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:10Z" name="BaseURI" finished-at="2024-05-14T12:03:10Z" duration-ms="528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googleAPITest.GoogleAPITest.createPlaceTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseURI -->
+        <test-method signature="createPlaceTest()[pri:1, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:10Z" name="createPlaceTest" finished-at="2024-05-14T12:03:11Z" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPlaceTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:11Z" name="getResult" finished-at="2024-05-14T12:03:11Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createPlaceTest status=SUCCESS method=GoogleAPITest.createPlaceTest()[pri:1, instance:googleAPITest.GoogleAPITest@78d6692f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="BaseURI(java.lang.reflect.Method)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:11Z" name="BaseURI" finished-at="2024-05-14T12:03:11Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googleAPITest.GoogleAPITest.getPlaceTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseURI -->
+        <test-method signature="getPlaceTest()[pri:2, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:11Z" name="getPlaceTest" finished-at="2024-05-14T12:03:12Z" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPlaceTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:12Z" name="getResult" finished-at="2024-05-14T12:03:12Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getPlaceTest status=SUCCESS method=GoogleAPITest.getPlaceTest()[pri:2, instance:googleAPITest.GoogleAPITest@78d6692f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="BaseURI(java.lang.reflect.Method)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:12Z" name="BaseURI" finished-at="2024-05-14T12:03:12Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googleAPITest.GoogleAPITest.updatePlaceTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseURI -->
+        <test-method signature="updatePlaceTest()[pri:3, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:12Z" name="updatePlaceTest" finished-at="2024-05-14T12:03:14Z" duration-ms="1582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePlaceTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:14Z" name="getResult" finished-at="2024-05-14T12:03:14Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updatePlaceTest status=SUCCESS method=GoogleAPITest.updatePlaceTest()[pri:3, instance:googleAPITest.GoogleAPITest@78d6692f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="BaseURI(java.lang.reflect.Method)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:14Z" name="BaseURI" finished-at="2024-05-14T12:03:14Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googleAPITest.GoogleAPITest.deletePlaceTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseURI -->
+        <test-method signature="deletePlaceTest()[pri:4, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:14Z" name="deletePlaceTest" finished-at="2024-05-14T12:03:15Z" duration-ms="1297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePlaceTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:15Z" name="getResult" finished-at="2024-05-14T12:03:15Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deletePlaceTest status=SUCCESS method=GoogleAPITest.deletePlaceTest()[pri:4, instance:googleAPITest.GoogleAPITest@78d6692f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="getPlaceAfterdeletTest()[pri:5, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:15Z" name="getPlaceAfterdeletTest" finished-at="2024-05-14T12:03:16Z" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPlaceAfterdeletTest -->
+        <test-method is-config="true" signature="BaseURI(java.lang.reflect.Method)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:15Z" name="BaseURI" finished-at="2024-05-14T12:03:15Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googleAPITest.GoogleAPITest.getPlaceAfterdeletTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseURI -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:16Z" name="getResult" finished-at="2024-05-14T12:03:16Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getPlaceAfterdeletTest status=SUCCESS method=GoogleAPITest.getPlaceAfterdeletTest()[pri:5, instance:googleAPITest.GoogleAPITest@78d6692f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:googleAPITest.GoogleAPITest@78d6692f]" started-at="2024-05-14T12:03:16Z" name="flushReport" finished-at="2024-05-14T12:03:16Z" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- googleAPITest.GoogleAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
